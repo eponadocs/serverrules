@@ -1,12 +1,25 @@
-## Epona Server Rules
+# Epona Server Rules
 
-**General Notice:**
+## Table of Contents
+1. [General Notice](#general-notice)
+2. [Important Notice](#important-notice)
+3. [Terms Defined](#terms-defined)
+4. [About Epona](#about-epona)
+5. [General Rules](#general-rules)
+6. [How Does Voting Work?](#how-does-voting-work)
+7. [What to Keep in Mind When Bossing](#what-to-keep-in-mind-when-bossing)
+8. [Audit Rule](#audit-rule-established-august-16-2024)
+9. [Boss Roll Reference Guide as of 04/11/2020](#boss-roll-reference-guide-as-of-04112020)
+10. [Bossing Requirements Guide](#bossing-requirements-guide)
+11. [Links](#links)
+
+## General Notice
 Please read everything below to ensure both you and those you game with are having a fun and fair experience on Epona. The below applies to ALL eponians whether new or old and has been voted on and will be enforced by the Epona community. Efforts will be made to assist new players in learning the below rules. Please keep in mind this is a living document and therefore is subject to change. While you can have a great experience on Epona without reading through all of these guidelines and just "go with the flow," it is recommended to become familiar with this document in the event a question comes up. Always good to be prepared!
 
-**Important Notice:**
+## Important Notice
 Sometimes situations can occur that are not described in the rule document. If there is disagreement during any boss or during the rolls or any other situation in Epona, a solution can be made with common sense and/or a server vote. The normal rules for a server vote apply. These situations will be solved on a case-by-case basis and have no impact on any following case in terms of enforcing past solutions. They can be used as a reference point, but force by no means that the same actions need to be taken. Every situation is different; therefore, all situations not listed in the rule document are solved on a case-by-case basis.
 
-## TERMS DEFINED
+## Terms Defined
 A reference guide on the many terms you may see throughout this document and on the server.
 
 1. **Eponian Community:** The server player base.  
@@ -35,7 +48,7 @@ A reference guide on the many terms you may see throughout this document and on 
 24. **Votes:** The process of determining the general population's opinion on various topics.  
 25. **Spam:** Spam is considered any messages that are unnecessary but harmful to the game experience in that situation. This can include excessive amounts of the same message being sent in quick succession, repeatedly hitting the roll button, or interrupting rolls at the end of a boss fight.  
 
-## ABOUT EPONA
+## About Epona
 Epona is a famously free server. We get a lot of transfers from other servers, so to ensure that players have an adequate knowledge of the rules, we've written this guide. We are able to progress through the game because the many clans work together as a team. How does Epona work?
 
 1. Epona runs on a roll-based system, meaning all players roll the dice to determine who wins the drops. This is essentially a lottery system. Anyone is allowed to participate in this system provided they abide by the rules listed in this document.  
@@ -46,7 +59,7 @@ Epona is a famously free server. We get a lot of transfers from other servers, s
 6. Most bosses are fairly hard and cannot be downed without the help of those in the community. Therefore winning drops while banned is nearly impossible.  
 7. Loot you have won can be sold for in-game currency (gold). Some clans have restrictions for their members, so it is good to research and ask the clan before joining.  
 
-## GENERAL RULES
+## General Rules
 Below you will find a summary of the rules that you have to comply with. Further below in this document, you will find extra information regarding subjects like voting or bossing.
 
 1. Epona is full of all kinds of players. Please be respectful to all ages, races, religions, and genders. 
@@ -93,7 +106,7 @@ Epona reserves the right to server ban an individual for the following reasons:
 
 **DISCLAIMER:** Any mention of a "ban" refers to a server ban where an individual is excluded from participating in bosses and other activities on the server. Epona majority approves all bans directly (by vote) or through indirect means (Epona rules) and is responsible for enforcing them. Please see Epona Rules in the Epona subforum for reference. Any mention of a "ban" above does not refer to a ban from DECA and does not represent the opinion of DECA or DECA policy.
 
-## How does voting work?
+## How Does Voting Work?
 Votes can be initiated by anyone. State a discussion topic in a general chat group and collect 30 "sponsors" for the idea to go to a vote. This means they must get 30 individuals who support (or are against the idea but want a vote) the idea and make a list of their names. The topic must be discussed for at least 48 hours in a general chat room before a vote is started. This list can be shared with a voting chatroom admin, and a vote shall then commence for 48 hours unless stated otherwise beforehand. The sponsors may and regularly are contacted to ensure validity of their sponsorship. Any vote with invalid or forged sponsors will be halted immediately and all votes deemed null and void.
 
 1. The same vote or any topic regarding a vote can only be voted again after a 6-month cooldown. Votes which have anything to do with the previous vote and are able to affect it in any way are also included; those will have to wait until the cooldown is over, then the vote can be held. Starting Jan 12, 2025, the cooldown on gear changes will now have a 3-month cooldown. All other topics remain with a 6-month cooldown.  
@@ -163,7 +176,7 @@ Some bosses are designated as All-roll while others are class-roll.
 15. If you are online, you must roll for yourself unless you disconnect and someone else has already rolled for you. If you disconnect or have to leave before rolls are started, someone can roll for you.  
 16. Do not under any circumstances invite banned players to your boss groups. Server banned players are banned for a reason; they aren't allowed to participate in any bosses.  
 
-### AUDIT RULE: Established August 16, 2024
+### Audit Rule: Established August 16, 2024
 With this proposed rule, players can formally request an explanation for suspicious gear obtained by a player acquired in unreasonable timing, including gaining DG or OP gears within weeks.
 
 1. The OP will provide screenshots of quickly obtained high-tier gear, and once 30 sponsors have been gathered, the accused must explain their acquisition of gear with proof and/or vouchers.  
@@ -173,7 +186,7 @@ With this proposed rule, players can formally request an explanation for suspici
     - 4.1. The harasser first gets a warning, and then a 2-week ban for the second offense.  
     - 4.2. Finally, a permanent ban (one year appeal restriction) for the third offense before they could submit an appeal to the Discord server.
 
-### BOSS ROLL REFERENCE GUIDE as of 04/11/2020
+### Boss Roll Reference Guide as of 04/11/2020
 All participants must adhere to the gear requirements guide when attending EG bosses (Prot, Gele, BT, Dhio, etc). The gear requirements guide can be found below. 
 
 1. **All Warden Bosses:** All Roll  
@@ -192,7 +205,7 @@ All participants must adhere to the gear requirements guide when attending EG bo
 14. **All 9 new Valley of the Ancients mini bosses (class roll for class specific & all roll for free class items)** ***currently highs win since nothing else was voted for. Implemented on October 25, 2024.  
 15. **Legacy Bosses:** Some old bosses are all roll like Nathan, Ythair, Sunclaw, and Ymir, while the rest are class roll. (this can be changed by the majority at the boss)  
 
-### BOSSING REQUIREMENTS GUIDE
+### Bossing Requirements Guide
 While anyone has the right to attend a boss, you have to earn the right to roll. Below are the requirements you must meet to validate your roll(s) at the specific boss.
 
 1. **All Warden Bosses:** 
@@ -322,11 +335,11 @@ Locking and killing any treasure mob while banned from Treasure Hunt events will
     - 20.2. For Gele, BT, Dhio: 30m call is mandatory only for the FIRST boss. 
         - 20.2.1. The call must mention that all 3 will be spawning starting in 30m. 
         - 20.2.2. This can also be done BEFORE spawn as we know exactly when they will. 
-    - 20.3. For Mani: 30m call and as with the others this can be done 30m BEFORE spawn. 
+    - 20.3. For Mani: 30m call and as with the others, this can be done 30m BEFORE spawn. 
     - 20.4. If the calls are made late, the full 10 or 30 minutes MUST elapse before pull as per usual.
-  
+
 ## Links
 - **Link to Official Epona Discord:** [Epona Discord](https://discord.gg/bawtz2qmR7)  
-- **Link to Council Rules:** [Council Rules](https://discord.com/channels/915748612301008906/1112433504651837521)  
+- **Link to Council Rules:** [Council Rules](https://discord.com/channels/915748612301008906/1112433504651837521)
 
 Concerning the consequences for: IRL Trading, scams, drop steals, and account sharing or selling are listed in the "General Rules" section above... The length of temp bans can be altered on a case-by-case basis if Council deems it. If someone gets a permanent ban but then appeals the ban and gets unbanned, they do not default back to their first offense, as in - any next offense is still a permanent ban.
